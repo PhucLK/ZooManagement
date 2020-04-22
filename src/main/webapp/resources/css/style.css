@@ -1,0 +1,138 @@
+.navbar-inverse {
+    background-color: #0c9e0a !important;
+    border-color: #5d9208 !important;
+     
+}
+.navbar-inverse .navbar-brand {
+    color: #dcf9f5 !important;
+    font-size: 20px;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #dcf9f5 !important;
+    font-size: 19px;
+}
+.list-inline li a{
+	text-decoration: none;
+}
+.list-inline li{
+	color: #337ab7;
+}
+.wrapper{
+	padding: 0px;
+	border: 1px dashed #326ab4;
+}
+.content_title{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.main{
+    background-color: #f9f9f9;
+    border-top: 1px solid #8b81e6;
+    padding-top: 10px;
+}
+.list-group-item{
+    position: relative;
+    display: block;
+    padding: 15px 15px;
+    margin-bottom: -1px;
+    background-color: #f9f9f9;
+    border: 0px;
+}
+.navbar {
+    border-radius: 0px !important;
+}
+.main_right_table tr:nth-child(even) {
+    background-color: white;
+}
+a {
+    color: #0f87ef;
+    text-decoration: none;
+}
+.form_header{
+    margin-bottom: 20px;
+}
+.form_header_main{
+     margin-bottom: 10px;
+}
+.form_header_main label{
+    padding-top: 8px;
+}
+.table_title{
+   margin-bottom: 15px;
+}
+.label_checkbox{
+    position: relative;
+    bottom: 2px;
+    font-weight: normal;
+    left: 5px;
+}
+textarea{
+    resize: none;
+}
+.form_header_main2{
+     margin-bottom: 15px;
+}
+.form_header_main2 label{
+    padding-top: 8px;
+}
+.padding0{
+    padding: 0px;
+}
+.padding0 label{
+    padding-top: 7px;
+}
+.padding1{
+    padding-left: 0px;
+}
+.red{
+    color: red;
+}
+.padding0 h4{
+    padding-top: 7px;
+}
+.booking_main{
+    margin-top: 80px;
+}
+.booking_main_form{
+    margin-bottom: 15px;
+}
+.booking_main_form label{
+    padding-top: 8px;
+}
+.booking_main_form p{
+     padding-top: 0px;
+     margin: 0px;
+     font-size: 26px;
+}
+.booking_note{
+    margin-top: 15px;
+}
+.logo_img{
+    width: 18%;
+}
+.program { 
+    background-image: url("../img/bg.jpg");
+
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.wrapper{
+    background: white;
+}
+.color1{
+    color: #40a42c;
+}
+#serviceTable>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 8px;
+    line-height: 1.42857143;
+    vertical-align: middle;
+    border-top: 1px solid #ddd;
+}
+
+/*error hibernate validate */
+.error{
+	color : red;
+}
